@@ -4,7 +4,7 @@ const eventName = 'Mừng Valentine 14/2';
 const titleCard = 'Tặng EM CHÁU ngày valentinô';
 
 const contentCard = 'Chúc em cháu của anh 14/02 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau. ' +
-    'Nay là valentine đầu tiên chúng ta có nhau, anh không dám đoán tương lai sau này thế nào, nhưng anh ước chúng ta mãi luôn có nhau. Hãy cùng nhau cố gắng em nhé ❤🧡💙💜<br>' + 'TV 💘 TX'
+    'Nay là valentine đầu tiên chúng ta có nhau, anh không dám chắc tương lai sau này thế nào, nhưng anh ước chúng ta mãi luôn có nhau. Hãy cùng nhau cố gắng em nhé ❤🧡💙💜<br>' + 'TV 💘 TX'
 
 
 // Yêu xa là một thử thách lớn nhưng sẽ là một kết thúc tươi đẹp nếu chúng ta vượt qua được. Hãy cùng nhau cố gắng em nhé!
